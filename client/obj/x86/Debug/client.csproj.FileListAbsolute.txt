@@ -1,0 +1,20 @@
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\bin\Debug\client.exe
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\bin\Debug\client.pdb
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\client.client.resources
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\client.exe
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\client\obj\x86\Debug\client.pdb
+C:\Users\takag\Dropbox\cs327project\cs327project\client\obj\x86\Debug\client.exe
+C:\Users\takag\Dropbox\cs327project\cs327project\client\obj\x86\Debug\client.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\client.exe
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\client.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\client\bin\Debug\client.exe
+C:\Users\xsq\Desktop\cs327project\cs327project\client\bin\Debug\client.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\client.client.resources
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xsq\Desktop\cs327project\cs327project\client\obj\x86\Debug\GenerateResource.write.1.tlog

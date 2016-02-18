@@ -1,0 +1,18 @@
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\bin\Debug\Server.exe
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\bin\Debug\Server.pdb
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\cs327project.server.resources
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\cs327project.Properties.Resources.resources
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\Server.exe
+C:\Users\dluo\documents\visual studio 2010\Projects\cs327project\Server\obj\x86\Debug\Server.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\Server.exe
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\Server.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\bin\Debug\Server.exe
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\bin\Debug\Server.pdb
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\cs327project.server.resources
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\cs327project.Properties.Resources.resources
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xsq\Desktop\cs327project\cs327project\Server\obj\x86\Debug\GenerateResource.write.1.tlog
