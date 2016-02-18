@@ -1,0 +1,1 @@
+This is a Internet networking project inherited from a course project I made in college. I made an upgrade to the existing course project that sends and receives messages, which is essentially an IM. This upgrade was a Go-Back-N protocol simulator. It implements the Go Back N protocol that ensures the correctness of communication. 
